@@ -1,11 +1,13 @@
 # Darkʞᴉƃɐꟽ
-An original custom Vivaldi web browser theme. 
+An original custom Vivaldi web browser theme. <sub>/sub>
 
 This theme is designed to provide a rich, immersive user experience, leveraging a dark template with a vibrant, contrasting color palette primarily composed of a blend of bright purples and greens. The carefully curated selection of uniquely customized icons is centered around a medieval-fantasy-magic aesthetic, resulting in an unparalleled, cohesive, and definitive user interface that facilitates effortless navigation.
 
 The theme's name, "Darkʞᴉƃɐꟽ," reflects its focus on evoking the mystical, dark magic-based abilities of an evil/necromancer-type spell caster class, as embodied by the icons and imagery used throughout the theme.
 
 <sub>*The custom icons are original edits of publicly available image files sourced from various online resources.*</sub>
+
+<sub>*See ```https://themes.vivaldi.net/themes/3rKlwMzZJaD``` to download the theme directly.*</sub>
 
 ### Image and Icon Sources:
   1. To access the source links for the used images and icons, follow these steps:
