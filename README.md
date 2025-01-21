@@ -7,7 +7,7 @@ The theme's name, "Darkʞᴉƃɐꟽ," reflects its focus on evoking the mystical
 
 <sub>*The custom icons are original edits of publicly available image files sourced from various online resources.*</sub>
 
-<sub>*See ```https://themes.vivaldi.net/themes/3rKlwMzZJaD``` to download the theme directly.*</sub>
+<sub>*See [here](https://themes.vivaldi.net/themes/3rKlwMzZJaD) → ```https://themes.vivaldi.net/themes/3rKlwMzZJaD``` to download the theme directly.*</sub>
 
 ### Image and Icon Sources:
   1. To access the source links for the used images and icons, follow these steps:
