@@ -1,5 +1,5 @@
 # Darkʞᴉƃɐꟽ
-An original custom Vivaldi web browser theme. <sub>/sub>
+An original custom Vivaldi web browser theme. <sub>🧙‍♂️✨🌑🕶️🌌🌠🌟</sub>
 
 This theme is designed to provide a rich, immersive user experience, leveraging a dark template with a vibrant, contrasting color palette primarily composed of a blend of bright purples and greens. The carefully curated selection of uniquely customized icons is centered around a medieval-fantasy-magic aesthetic, resulting in an unparalleled, cohesive, and definitive user interface that facilitates effortless navigation.
 
